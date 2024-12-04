@@ -14,7 +14,7 @@ Fake Crypto USDT - TRC20 /ERC 20
 
 📋 Как это работает:
 	1.	Установите кошелёк: 📥 Скачайте и установите ваш криптовалютный кошелёк с поддержкой TRC-20 и ERC-20.
-	2.	Активируйте USDT Flash: 🔄 Откройте функцию USDT Flash в вашем кошельке.
+	2.	Активируйте USDT: 🔄 Откройте функцию USDT в вашем кошельке.
 	3.	Отправляйте USDT: 💸 Совершайте переводы USDT (TCR-20 и ERC-20) с минимальными комиссиями.
 	4.	✅ Готово! Средства поступят на ваш кошелёк быстро и безопасно.
 
@@ -40,7 +40,7 @@ Welcome to USDT Flash TCR-20 and ERC-20 — the perfect solution for ⚡ instant
 
 📋 How It Works:
 	1.	Install Your Wallet: 📥 Download and install a crypto wallet that supports TRC-20 and ERC-20.
-	2.	Activate USDT Flash: 🔄 Open the USDT Flash feature in your wallet.
+	2.	Activate USDT : 🔄 Open the USDTfeature in your wallet.
 	3.	Send USDT: 💸 Initiate USDT transfers (TCR-20 and ERC-20) with minimal fees.
 	4.	✅ Done! Funds are deposited into your wallet quickly and securely.
 
