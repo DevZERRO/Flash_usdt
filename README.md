@@ -55,5 +55,5 @@ Welcome to USDT Flash TCR-20 and ERC-20 — the perfect solution for ⚡ instant
 	•	👤 Админ: @OZON_Finance_USDT
 
 📩 For all inquiries:
-	•	📱 Telegram Channel: @flash_usdt_trc20new
-	•	👤 Admin: @OZON_Finance_USDT
+	•	📱 Telegram Channel: [@flash_usdt_trc20_trust](https://t.me/flash_usdt_trc20_trust)
+	•	👤 Admin: [@OZON_Finance_USDT](https://t.me/OZON_Finance_USDT)
